@@ -1,2 +1,5 @@
-# Git_Course
-Start new Repo
+# Git Course
+sarting new Repo
+
+## Project Notes
+
